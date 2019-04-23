@@ -1,11 +1,11 @@
 # Site settings
-author: Igor Rud
-title: 
+author: Igor Rudenko
+title: Why I decide to learn coding 
 header-img: img/home-bg.png
 email: rud.igor23@gmail.com
-copyright_name: Igor Rud
+copyright_name: Igor Rudenko
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My motivation
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  IgorRud23
